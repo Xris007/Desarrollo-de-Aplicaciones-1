@@ -1,0 +1,15 @@
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\bin\Debug\ProyWinC_Sem03.exe.config
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\bin\Debug\ProyWinC_Sem03.exe
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\bin\Debug\ProyWinC_Sem03.pdb
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.csprojAssemblyReference.cache
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.Form1.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.frmArchivos.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem04.frmLogin.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.frmMaskedtextBox.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.frmVisorImagenes.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.MDIPrincipal.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.Properties.Resources.resources
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.csproj.GenerateResource.cache
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.csproj.CoreCompileInputs.cache
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.exe
+D:\Velásquez\ProyWinC_Sem03\ProyWinC_Sem03\obj\Debug\ProyWinC_Sem03.pdb
